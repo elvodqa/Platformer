@@ -9,6 +9,7 @@
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},"order":1,},
     {"id":{"name":"obj_nextLevel","path":"objects/obj_nextLevel/obj_nextLevel.yy",},"order":3,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":15,},
+    {"id":{"name":"obj_toggleFullscreen","path":"objects/obj_toggleFullscreen/obj_toggleFullscreen.yy",},"order":2,},
     {"id":{"name":"obj_death","path":"objects/obj_death/obj_death.yy",},"order":2,},
     {"id":{"name":"room_level1","path":"rooms/room_level1/room_level1.yy",},"order":2,},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"order":1,},

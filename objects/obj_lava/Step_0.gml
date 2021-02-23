@@ -1,1 +1,1 @@
-image_yscale = 10;
+move_towards_point( 0, 0, 0.6 );
